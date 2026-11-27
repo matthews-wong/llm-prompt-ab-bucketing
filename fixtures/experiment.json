@@ -1,0 +1,7 @@
+{
+  "name": "support-reply-tone",
+  "variants": {
+    "control": 1,
+    "concise": 1
+  }
+}
